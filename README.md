@@ -7,6 +7,8 @@ This is currently the bare bones example, but there is intent to refine this cod
 
 This project was completed for CSCI 5922 Neural Networks and Deep Learning course in Fall 2022 at the University of Colorado Boulder with Prof. Danna Gurari and assistance from Samreen Anjum and Lucas Hayne
 
+For a brief demonstration of the usefulness of this product, please see our YouTube video here: https://www.youtube.com/watch?v=f9_uXm3NwQA&t=203s
+
 
 ## Datasets
 Dataset is hosted on kaggle at: https://www.kaggle.com/datasets/spenceiscool/asl-isl-numbers-conversions
